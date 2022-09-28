@@ -1,9 +1,11 @@
 # Hi there 👋, I'm Harikrishnan!
-DevOps Engineer !
-What I'm doing:
+
+Cloud Engineer !
+
+# What I'm doing:
 I’m currently working as Cloud Support Engineer!
-I’m looking to collaborate on DevOps projects.
-Skills and Tools:
+
+# Skills and Tools:
 Cloud Platform: AWS
 Containerization: Docker. Kubernetes basics
 Infrastructure as Code: Ansible, Terraform
